@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.3",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "nafupcr7",
+    "id": "ckzy5qvrk1220401s6tpw8tfd1",
+    "url": "https://staging-oc.amplication.com/ckzy5qvrk1220401s6tpw8tfd1",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckzy5qvrk1220401s6tpw8tfd1",
+      "authProvider": "Jwt"
+    }
+  }
+}
